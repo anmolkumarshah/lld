@@ -130,3 +130,18 @@ public class HitCounter {
     }
 
 }
+
+
+/**
+ *
+ * Time Complexity:
+ * - Initialize: O(n)
+ * - visit: O(1)
+ * - getCount: O(1)
+ *
+ * Space Complexity:
+ * - Initialize: O(n)
+ * - visit: O(1)
+ * - getCount: O(1)
+ *
+ */
